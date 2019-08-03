@@ -1,2 +1,0 @@
-# ExerciciosReactJs
-Created with CodeSandbox
